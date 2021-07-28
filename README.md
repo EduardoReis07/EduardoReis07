@@ -21,7 +21,7 @@ public class @EduardoReis07 extends Desenvolvedor{
 public class Skills extends Desenvolvedor{
     
     String[] linguagens = new String[]{ "Java", "Html", "Css", "JavaScript", "Php", "C++" };
-    String frameworks = new String[]{ "Spring Boot", "NodeJS" };
+    String[] frameworks = new String[]{ "Spring Boot", "NodeJS" };
     String[] IDEs = new String[]{ "IntelliJ", "VS Code", "Netbeans" }
 }
 ```
