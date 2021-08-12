@@ -14,7 +14,7 @@ import java.dev.Desenvolvedor;
 public class @EduardoReis07 extends Desenvolvedor {
 
  String nome = "Eduardo Reis";
- String area = "Desenvolvimentos de sistemas, em especial RPAs";
+ String area = "Desenvolvimentos de sistemas (RPAs)";
  String formação = "Técnico em Desenvolvimento de Sistemas";
  String faculdade = "Estudante de Banco de Dados";
  String trabalho = "Yank Solutions - Desenvolvedor Java";
